@@ -1,0 +1,11 @@
+logging:
+  level:
+    org.springframework.web: DEBUG
+    com.github.binarywang.demo.wechat: DEBUG
+
+wechat:
+  mp:
+    appId:wx91c7ed3838fd4321
+    secret:37202ae6d5e5dc79e0fffef98c08c8fb
+    token:
+    aesKey:
